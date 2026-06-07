@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <img
-    src="https://github-readme-stats-woad-two-71.vercel.app/api/top-langs/?username=hayaqon&layout=compact&langs_count=10&theme=onedark&v=202606072247"
+    src="https://github-readme-stats-woad-two-71.vercel.app/api/top-langs/?username=hayaqon&layout=compact&langs_count=10&hide=css&theme=onedark&v=202606072247"
     width="60%"
   />
 </p>
